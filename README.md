@@ -1,9 +1,9 @@
 
-![banner](https://user-images.githubusercontent.com/99060332/197100786-28dd338b-d7ba-4584-abc4-3c5aeb8fa6bf.png)
+![banner (1)](https://user-images.githubusercontent.com/99060332/197151656-28c40e5b-69ea-44f3-b1f9-afb2974fb730.png)
 
 ## About
 
-- 🔭 I’m currently working on my study
+- 🔭 I’m currently working on my study.
 - 🌱 I’m currently learning **UI/UX Design**
 - 👯 I’m looking to collaborate on **Android Projects**
 - 💬 Ask me about **Android Development**
@@ -15,14 +15,14 @@
 ## Languages and Tools:
 
 <p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://user-images.githubusercontent.com/99060332/197106797-fd3b5ce2-a18e-4ba8-9db9-8cffa6b84110.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/99060332/197106379-07133451-10bb-49e2-afff-ac8bb48d5b90.svg" alt="Xd" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://user-images.githubusercontent.com/99060332/197106739-627e288b-9690-40ad-863d-ec574168d2c3.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/99060332/197106797-fd3b5ce2-a18e-4ba8-9db9-8cffa6b84110.svg" alt="kotlin" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/99060332/197106379-07133451-10bb-49e2-afff-ac8bb48d5b90.svg" alt="Xd" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/99060332/197106739-627e288b-9690-40ad-863d-ec574168d2c3.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  </p>
 
@@ -30,11 +30,11 @@
 ## Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShubhadeepKarmakar&theme=buefy&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhadeepkarmakar&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhadeepKarmakar&langs_count=10&hide=javascript,html,css,rust,go,python,shell)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhadeepKarmakar&show_icons=true&theme=buefy)
-
 
 ## Connect with me:
 
