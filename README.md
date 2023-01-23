@@ -20,6 +20,7 @@
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/99060332/197106797-fd3b5ce2-a18e-4ba8-9db9-8cffa6b84110.svg" alt="kotlin" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/99060332/214065734-df6f1f04-22f0-45a0-b927-4a36387110da.svg" alt="Firebase" width="40" height="40/> </a> 
 <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/99060332/197106379-07133451-10bb-49e2-afff-ac8bb48d5b90.svg" alt="Xd" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/99060332/197106739-627e288b-9690-40ad-863d-ec574168d2c3.svg" alt="photoshop" width="40" height="40"/> </a>
